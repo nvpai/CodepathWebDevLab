@@ -13,7 +13,7 @@ This repository contains projects created while taking the **CodePath Web Progra
 ## Projects
 Each project focuses on different aspects of React and web development:
 
-1. **[TimeTabled]** - A grid-style calendar with one-hour events that plan out a single week.
+1. **TimeTabled** - A grid-style calendar with one-hour events that plan out a single week.
 <!-- 2. **[Project Name]** - Brief description of what it does.
 3. **[Project Name]** - Brief description of what it does. -->
 
@@ -29,7 +29,7 @@ To run these projects locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nvpai/[CodepathWebDevLab].git
+   git clone https://github.com/nvpai/CodepathWebDevLab.git
    ```
 2. Navigate to the project directory:
    ```bash
